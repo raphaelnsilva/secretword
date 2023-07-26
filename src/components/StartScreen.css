@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex&family=VT323&display=swap');
+
+*{
+    font-family: 'Roboto Flex', sans-serif;
+}
+.start h1 {
+    font-size: 5.5em;
+}
+
+.start p {
+    margin-bottom: 2em;
+    color: #6771fc;
+}
+
+.titulo {
+    font-family: 'VT323';
+}
+
+@media(min-width: 1024px) {
+    .start h1 {
+        font-size: 8em;
+    }
+}
