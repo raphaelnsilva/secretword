@@ -4,5 +4,5 @@ export const wordsList = {
     corpo: ["Braço", "Perna", "Cérebro", "Pescoço", "Olhos"],
     computador: ["Mouse", "Teclado", "Monitor", "Fone"],
     programação: ["Klotin", "Angular", "Pyton", "React"],
-    alimento: ["Arroz", "Feijão", "Carne", "Leite", "Ovo"],
+    alimento: ["Arroz", "Feijão", "Carne", "Leite", "Queijo"],
   };

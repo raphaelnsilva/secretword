@@ -15,19 +15,20 @@
 
 .wordContainer {
     margin: 1.5em;
-    padding: 0.8em;
+    padding: 0.5em;
     border: 10px solid #02a0fc;
     display: flex;
     border-radius: 5px;
+    justify-content: center;
 }
 
 .letter, 
 .blankSquare {
-    font-size: 40px;
+    font-size: 28px;
     line-height: 1.5;
     border: 1px solid #000;
-    height: 55px;
-    width: 55px;
+    height: 50px;
+    width: 50px;
     text-transform: uppercase;
     background-color: #fff;
     color: #000;
