@@ -27,9 +27,13 @@
 
 ## Sobre o projeto Secret Word
 
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 O Secret word é uma aplicação web criada com React e tem como inspiração um jogo muito famoso no Brasil, o jogo da forca. O objetivo do jogo é adivinhar o maximo de palavras possíveis, o jogo te oferece uma dica da palavra, Inicialmente você começa com 6 vidas, toda vez que você erra uma letra, você perde 1 vida. O jogo marca a pontuação no topo, cada palavra certa vale 100 pontos. O objetivo é adivinhar o maximo de palavras e obter a maior pontuação possível.
 
 Acesse https://raphaelnsilva.github.io/secretword/ experimente o jogo você mesmo.
+
+[product-screenshot]: public/game-print.jpeg
 
 [contributors-shield]: https://img.shields.io/github/contributors/raphaelnsilva/secretword.svg?style=for-the-badge
 [contributors-url]: https://github.com/raphaelnsilva/secretword/graphs/contributors
